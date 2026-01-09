@@ -1,0 +1,18 @@
+╔════════════════════════════════════════════════════════╗
+║                                                        ║
+║        🦀  HEALTHTRACK - RUST EDITION  🦀              ║
+║                                                        ║
+║     Medical Patient Management System                  ║
+║     Built with Rust for Safety & Performance           ║
+║                                                        ║
+║     Author: Loïc Pilette                               ║
+║     Version: 0.1.0                                     ║
+║                                                        ║
+╚════════════════════════════════════════════════════════╝
+
+Features:
+  → Patient Management
+  → Appointment Scheduling (coming soon)
+  → Prescription Tracking (coming soon)
+
+Press any key to continue...
